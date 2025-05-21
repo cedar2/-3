@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<paths xmlns:android="http://schemas.android.com/apk/res/android">
-    <external-path name="my_images" path="." />
-    <!-- 根据你的需求添加其他路径，如<files-path>、<cache-path>等 -->
-</paths>
